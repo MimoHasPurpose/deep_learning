@@ -7,7 +7,7 @@
 
 **Todo**:
 
-1. add those books by Saurabh sir.
+1.
 2. read a lot of ml code
 3. practice a lot of ml code
 
