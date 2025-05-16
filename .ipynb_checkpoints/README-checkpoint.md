@@ -14,4 +14,3 @@
 
 **Book**:
 1. https://www.deeplearningbook.org/
-2. https://fullstackdeeplearning.com/
