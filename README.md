@@ -1,5 +1,7 @@
 # deep-learning
 
+Note: do visit the experiment folder, for checking all my experiments.
+
 - Index:
   - 100DaysOfDeepLearning:
     1. Intro to DL
