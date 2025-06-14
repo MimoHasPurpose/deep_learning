@@ -12,10 +12,10 @@ Note: do visit the experiment folder, for checking all my experiments.
     2. Diffusion
 
 **Todo**:
+-
+-
+-
 
-1. _\***\*\_\_\*\***_
-2. read a lot of ml code
-3. practice a lot of ml code
 
 **Book**:
 
