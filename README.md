@@ -17,6 +17,8 @@ Note: do visit the experiment folder, for checking all my experiments.
 1. https://www.deeplearningbook.org/
 2. https://fullstackdeeplearning.com/
 3. https://d2l.ai/
+4. f. challoet book
+
 References:
 
 1. https://www.fast.ai/index.html#category=courses
