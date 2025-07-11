@@ -18,6 +18,8 @@ Note: do visit the experiment folder, for checking all my experiments.
 2. https://fullstackdeeplearning.com/
 3. https://d2l.ai/
 4. f. challoet book
+5. https://udlbook.github.io/udlbook/
+6. https://mc-stan.org/docs/stan-users-guide/index.html
 
 References:
 
